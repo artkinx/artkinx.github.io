@@ -13,17 +13,28 @@ I'm a passionate .NET/Flutter developer from Abuja, Nigeria. I love creating bea
 - **PostreSql**
 
 ### 🚀 Projects
-
+- **[Asset Declaration System](https://assetdeclaration.ccb.gov.ng/)**: A platform for Civil servants and public office holders to declare their assets run by the Nigerian government under the care of the Code of Conduct Bureau and the Central Bank of Nigeria.
+- **[Kayi Bank Admin]**: A core banking platform that brings the web3 banking concept into the banking ecosystem.
 - **[Everything Property](https://play.google.com/store/apps/details?id=ng.everythingproperty.mobile.everything_property)**: A Flutter-based application that bridges the gap between property seekers and the actual properties in the Real Estate sector.
 - **[mysmartmedic](#)**: A Flutter-based Telemedicine platform that brings a fresh view into the concept. Still in development at the moment.
-- **[Asset Declaration System](https://assetdeclaration.ccb.gov.ng/)**: A platform for Civil servants and public office holders to declare their assets run by the Nigerian govvernment under the care of the Code of Conduct Bureau and the Central Bank of Nigeria.
 - **[fb_app](https://github.com/artkinx/fb_app)**: A Flutter-based application with MVVM architecture.
 - **[flutter-mvvm-architecture](https://github.com/artkinx/flutter-mvvm-architecture)**: A TypeScript project for generating boilerplate code using Providers.
 - **[google_maps_place_picker_mb](https://github.com/artkinx/google_maps_place_picker_mb)**: A place picker on Google Maps for Flutter.
 
-### 🏆 Achievements
+## 💼 Professional Experience
 
-- **Open Source Contributor**: Actively contributing to various open-source projects and communities.
+### Software Developer at Uniccongroup
+**Duration**: August 2023 - Present
+- Developed and maintained mobile applications using Flutter and Dart.
+- Implemented MVVM architecture for clean and maintainable code.
+- Integrated Google Maps for location-based services.
+- Developed highly scalable admin backend apis
+
+### Software Developer at Cloudware ltd
+**Duration**: December 2019 - July 2023
+- Assisted in developing .NET applications using C#.
+- Collaborated with the team to design and implement new features.
+- Participated in code reviews and provided 
 
 ### 💡 Interests
 
