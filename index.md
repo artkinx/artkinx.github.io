@@ -13,8 +13,10 @@ I'm a passionate .NET/Flutter developer from Abuja, Nigeria. I love creating bea
 - **Mobile App Development**: Expertise in developing robust and scalable mobile applications.
 - **MVVM Architecture**: Implementing Model-View-ViewModel architecture for clean and maintainable code.
 - **Google Maps Integration**: Integrating Google Maps for location-based services.
-- **MSSQL - Microsoft Sql**
-- **PostreSql**
+- **Repository Architecture**: Designing and implementing repository patterns for efficient data management.
+- **PostgreSQL**: Managing and querying relational databases using PostgreSQL.
+- **MSSQL**: Developing and maintaining databases using Microsoft SQL Server.
+- **MVC Architecture**: Implementing Model-View-Controller architecture for
 
 ### 🚀 Projects
 
