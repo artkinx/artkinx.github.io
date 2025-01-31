@@ -9,11 +9,11 @@ markdown: kramdown
 theme: minima
 
 # Author settings
-author:
-  name: "Adunbi Moses"
-  email: "your-email@example.com"
-  twitter_username: "your-twitter-username"
-  github_username: "your-github-username"
+# author:
+#   name: "Adunbi Moses"
+#   email: "your-email@example.com"
+#   twitter_username: "your-twitter-username"
+#   github_username: "your-github-username"
 
 # Plugins
 plugins:
