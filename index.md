@@ -21,16 +21,16 @@ I'm a passionate .NET/Flutter developer from Abuja, Nigeria. I love creating bea
 - **[flutter-mvvm-architecture](https://github.com/artkinx/flutter-mvvm-architecture)**: A TypeScript project for generating boilerplate code using Providers.
 - **[google_maps_place_picker_mb](https://github.com/artkinx/google_maps_place_picker_mb)**: A place picker on Google Maps for Flutter.
 
-## 💼 Professional Experience
+### 💼 Professional Experience
 
-### Software Developer at Uniccongroup
+#### Software Developer at Uniccongroup
 **Duration**: August 2023 - Present
 - Developed and maintained mobile applications using Flutter and Dart.
 - Implemented MVVM architecture for clean and maintainable code.
 - Integrated Google Maps for location-based services.
 - Developed highly scalable admin backend apis
 
-### Software Developer at Cloudware ltd
+#### Software Developer at Cloudware ltd
 **Duration**: December 2019 - July 2023
 - Assisted in developing .NET applications using C#.
 - Collaborated with the team to design and implement new features.
