@@ -25,7 +25,7 @@ I'm a passionate .NET/Flutter developer from Abuja, Nigeria. I love creating bea
 ### 💼 Professional Experience
 
 **Software Developer at Uniccongroup**
-**Duration**: August 2023 - Present
+: August 2023 - Present
 
 - Developed and maintained mobile applications using Flutter and Dart.
 - Implemented MVVM architecture for clean and maintainable code.
@@ -33,7 +33,7 @@ I'm a passionate .NET/Flutter developer from Abuja, Nigeria. I love creating bea
 - Developed highly scalable admin backend apis
 
 **Software Developer at Cloudware ltd**
-**Duration**: December 2019 - July 2023
+: December 2019 - July 2023
 
 - Assisted in developing .NET applications using C#.
 - Collaborated with the team to design and implement new features.
