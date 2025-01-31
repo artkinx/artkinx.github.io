@@ -1,4 +1,4 @@
-<!-- ### 👋 Hi, I'm Adunbi Moses Akinwande -->
+## 👋 Hi, I'm Adunbi Moses Akinwande
 
 I'm a passionate .NET/Flutter developer from Abuja, Nigeria. I love creating beautiful and functional mobile applications that make a difference.
 
@@ -15,7 +15,7 @@ I'm a passionate .NET/Flutter developer from Abuja, Nigeria. I love creating bea
 ### 🚀 Projects
 
 - **[Asset Declaration System](https://assetdeclaration.ccb.gov.ng/)**: A platform for Civil servants and public office holders to declare their assets run by the Nigerian government under the care of the Code of Conduct Bureau and the Central Bank of Nigeria.
-- **[Kayi Bank Admin](#)**: A core banking platform that brings the web3 banking concept into the banking ecosystem.
+- **[Kayi Bank Admin](https://www.kayi.ng/)**: A core banking platform that brings the web3 banking concept into the banking ecosystem.
 - **[Everything Property](https://play.google.com/store/apps/details?id=ng.everythingproperty.mobile.everything_property)**: A Flutter-based application that bridges the gap between property seekers and the actual properties in the Real Estate sector.
 - **[mysmartmedic](#)**: A Flutter-based Telemedicine platform that brings a fresh view into the concept. Still in development at the moment.
 - **[fb_app](https://github.com/artkinx/fb_app)**: A Flutter-based application with MVVM architecture.
