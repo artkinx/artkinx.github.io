@@ -1,4 +1,6 @@
-## 👋 Hi, I'm Adunbi Moses Akinwande
+# 👋 Hi, I'm Adunbi Moses Akinwande
+
+**[Download Resume](assets\files\Adunbi Akinwande resume full.pdf)**
 
 I'm a passionate .NET/Flutter developer from Abuja, Nigeria. I love creating beautiful and functional mobile applications that make a difference.
 
